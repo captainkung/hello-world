@@ -1,2 +1,3 @@
 # hello-world
-Trial Repository
+Trial Repository;
+This is cool.  I like my friends!!
